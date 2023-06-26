@@ -25,7 +25,7 @@ npm install
 
 ### For client-side
 
-- create `.env.local` file for environment variables
+- create `.env.local` file on the project root directory for environment variables
 - set the firebase project and get the api keys.
 - put the api keys in `.env.local` for authentication.
 - set up `VITE_API` environment variable for server api url
@@ -49,7 +49,7 @@ npm run dev
 
 ### For server-side
 
-- create `.env` file for environment variables
+- create `.env` file on the project root directory for environment variables
 - MongoDB Compass has to be installed on the local machine
 - paste these environment variable in `.env`
 
