@@ -7,6 +7,7 @@ import PrivateRouter from "./PrivateRouter";
 import AddPostPage from "../pages/AddPostPage/AddPostPage";
 import EditPostPage from "../pages/EditPost/EditPostPage";
 import SinglePostPage from "../pages/SinglePost/SinglePostPage";
+import Page404 from "../pages/Page404";
 
 const router = createBrowserRouter([
   {
@@ -54,6 +55,10 @@ const router = createBrowserRouter([
         element: <Signup />,
       },
     ],
+  },
+  {
+    path: "*",
+    element: <Page404 />,
   },
 ]);
 

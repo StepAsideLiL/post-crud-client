@@ -4,8 +4,9 @@
 
 ### [Client-side Repo](https://github.com/StepAsideLiL/post-crud-client) | [Server-side Repo](https://github.com/StepAsideLiL/post-crud-server)
 
-<br />
-<br />
+<br>
+<br>
+
 ## Run the project on local machine.
 
 - create a folder
