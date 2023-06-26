@@ -38,7 +38,7 @@ VITE_STORAGEBUCKET=[storageBucket]
 VITE_MESSAGINGSENDERID=[messagingSenderId]
 VITE_APPID=[appId]
 
-# VITE_API=http://localhost:5000/api/v1
+VITE_API=http://localhost:5000/api/v1
 ```
 
 - then run the following `npm` command
